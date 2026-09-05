@@ -1,0 +1,25 @@
+# Compilados de Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+*.class
+
+# Configuracion local con datos sensibles
+application-local.properties
+*.env
+.env
+
+# Logs
+*.log
+logs/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Sistema
+.DS_Store
+Thumbs.db
